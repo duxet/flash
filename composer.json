@@ -1,6 +1,6 @@
 {
-    "name": "laracasts/flash",
-    "description": "Easy flash notifications",
+    "name": "duxet/flash",
+    "description": "Easy flash notifications - for Semantic UI",
     "license": "MIT",
     "authors": [
         {
